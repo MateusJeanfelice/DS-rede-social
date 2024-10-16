@@ -58,7 +58,9 @@ footer {
     margin-top: 2rem;
 }
 
-/* Fim codigos aula 03*/
+.grafico {
+    margin-top: 3rem;
+}
 
 .graficos-container {
     margin: 5rem;
